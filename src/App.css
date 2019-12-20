@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: sans-serif;
 }
 
 .App-logo {
@@ -42,6 +43,7 @@ body {
   padding: 0;
   background-color: #282c34;
   margin-top: 70px;
+  font-family: sans-serif;
 }
 
 .navigation {
