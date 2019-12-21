@@ -31,17 +31,16 @@ class NavBar extends Component {
       <nav>
         <div class="nav-mobile"><a id="nav-toggle" href="#!"><span></span></a></div>
         <ul class="nav-list">
-          <li><a href="/">Home</a></li>
-          <li><a href="/about">About</a></li>
-          <li class = "dropdown"><a href="#">Other</a>
+          <li><a href="/about">Road Map</a></li>
+          <li class = "dropdown"><a href="#!">Web Development</a>
               <ul class="nav-dropdown">
                 <li><a href="/front-end-tech">Fontend Development</a></li>
                 <li><a href="/other">Backend Development</a></li>
                 <li><a href="/ios-tech">IOS Development</a></li>
               </ul>
             </li>
-            <li><a href="/other1">Other 1</a></li>
-            <li><a href="/other2">Other 2</a></li>
+            <li><a href="/other1">Machine Learning</a></li>
+            <li><a href="/other2">Game Development</a></li>
         </ul>
       </nav>
     </div>
