@@ -208,17 +208,6 @@ nav ul li ul li a {
       transform: rotate(-45deg); }
 
 
-
-
-
-
-
-
-
-
-
-
-
 .typing-div{
   color: lightblue; 
   font-size: 42px;
@@ -266,26 +255,13 @@ span{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 .container {
   display: flex;
   padding: 0 55px;
 }
 
 .item {
-  background: green;
+  background: rgb(60, 64, 69);
   flex: 0 0 19.7%;
   text-align: center;
   margin: 0 2px;
