@@ -10,6 +10,7 @@ import Other1 from './components/Other1';
 import Other2 from './components/Other2';
 import Frontend from './components/Frontend';
 import Ios from './components/Ios';
+// import Slider from './components/NSlider/Slider'
 
 function App() {
   return (

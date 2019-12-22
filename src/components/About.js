@@ -23,11 +23,13 @@ export default function About() {
         }, [index])
 
         return (
-            <Gallery style={{height: '100vh', width: '100vw', background: 'black'}} index={index} onRequestChange={i => { setIndex(i)}}>
+            <div style={{width: '600px', height: '800px', display: 'flex', justifyContent: 'center', margin: '50px auto'}}>
+            <Gallery style={{width:'400px !important', background: 'black', position: 'relative'}} index={index} onRequestChange={i => { setIndex(i)}}>
                 {images.map(image => (
                     <GalleryImage objectFit="contain" src={image} /> 
                 ))}
             </Gallery>
+            </div>
         )
 
 }
