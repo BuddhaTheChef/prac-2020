@@ -71,7 +71,7 @@ const movies = [
       id: 10,
       image: '/images/emberPic.png',
       imageBg: '/images/emberPic.png',
-      title: 'Emberp',
+      title: 'Ember',
       description : 'This is a test to see if individual content works, as of right now this content is just for the ID #10 but will test 3 to see if it works!'
     }
   ];
@@ -81,61 +81,71 @@ const movies = [
       id: 1,
       image: '/images/tensorflowML.jpg',
       imageBg: '/images/tensorflowML.jpg',
-      title: 'Tensor Flow'
+      title: 'Tensor Flow',
+      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #10 but will test 3 to see if it works!'
     },
     {
       id: 2,
       image: '/images/microsoftML.jpg',
       imageBg: '/images/microsoftML.jpg',
-      title: 'Microsoft CNTK (Cognitive Toolkit)'
+      title: 'Microsoft CNTK (Cognitive Toolkit)',
+      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #10 but will test 3 to see if it works!'
     },
     {
       id: 3,
       image: '/images/pythonML.jpg',
       imageBg: '/images/pythonML.jpg',
-      title: 'The Other stuff',
+      title: 'Python Machine Learning',
+      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #10 but will test 3 to see if it works!'
     },
     {
       id: 4,
       image: '/images/mML.svg',
       imageBg: '/images/mML.svg',
-      title: 'Blah blah...'
+      title: 'Mahout Machine Learning',
+      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #10 but will test 3 to see if it works!'
     },
     {
       id: 5,
       image: '/images/apachesparkML.jpg',
       imageBg: '/images/apachesparkML.jpg',
-      title: 'Blah blah...'
+      title: 'Apache Spark',
+      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #10 but will test 3 to see if it works!'
     },
     {
       id: 6,
       image: '/images/amazonML.jpg',
       imageBg: '/images/amazonML.jpg',
-      title: 'Blah blah...'
+      title: 'Amazon Machine Learning',
+      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #10 but will test 3 to see if it works!'
     },
     {
       id: 7,
       image: '/images/pytorchML.jpg',
       imageBg: '/images/pytorchML.jpg',
-      title: 'Blah blah...',
+      title: 'Pytorch',
+      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #10 but will test 3 to see if it works!'
     },
     {
       id: 8,
       image: '/images/caffe2ML.jpg',
       imageBg: '/images/caffe2ML.jpg',
-      title: 'Blah blah...'
+      title: 'Caffe 2 Machine Learning',
+      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #10 but will test 3 to see if it works!'
     },
     {
       id: 9,
       image: '/images/apacheSingmaML.jpg',
       imageBg: '/images/apacheSingmaML.jpg',
-      title: 'Blah blah...'
+      title: 'Apache Singa Machine Learning',
+      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #10 but will test 3 to see if it works!'
     },
     {
       id: 10,
       image: '/images/accordNetML.jpg',
       imageBg: '/images/accordNetML.jpg',
-      title: 'Blah blah...'
+      title: 'Accord Net Machine Learning',
+      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #10 but will test 3 to see if it works!'
     }
   ];
   
