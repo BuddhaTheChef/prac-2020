@@ -269,17 +269,17 @@ span{
 }
 
 .container:hover .item {
-  transform: translateX(-25%);
+  transform: translateX(-10%);
 }
 
 
 
 .item:hover ~ .item {
-  transform: translateX(25%);
+  transform: translateX(10%);
 }
 
 .item:hover {
-  transform: scale(1.5) !important;
+  transform: scale(1.2) !important;
 }
 
 .content {
