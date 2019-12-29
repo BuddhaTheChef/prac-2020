@@ -19,7 +19,7 @@ export default class Home extends Component {
                 <div style={{padding: '70px'}}>
                 <p class="typing-div">Intrested in becoming an engineer?</p>
                 <p class="typing-div">Well look no further.</p> 
-                <p class="typing-div">We got you.<span>|</span></p> 
+                <p class="typing-div">We got you.<span className="line">|</span></p> 
             </div>
 <div style={{display: 'flex', justifyContent: 'center', alignItems: 'center', overflow: 'hidden', height: '500px'}}>
              <ul ref={el => this.scene = el}>

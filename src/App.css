@@ -51,6 +51,7 @@ body {
   position: fixed;
   top: 0;
   width: 100%;
+  z-index: 9;
 }
 
 .nav-container {
@@ -232,7 +233,7 @@ nav ul li ul li a {
   text-decoration: none;
 }
 
-span{
+.line {
   animation: blink 1s infinite;
 }
 

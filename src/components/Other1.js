@@ -79,72 +79,72 @@ const movies = [
   const movies0 = [
     {
       id: 1,
-      image: '/images/slide1.jpg',
-      imageBg: '/images/slide1.jpg',
-      title: '',
+      image: '/images/game1.jpg',
+      imageBg: '/images/game1.jpg',
+      title: 'he6',
       description : 'This is a test to see if individual content works, as of right now this content is just for the ID #1 but will test 3 to see if it works!'
     },
     {
       id: 2,
-      image: '/images/slide2.jpg',
-      imageBg: '/images/slide2.jpg',
+      image: '/images/game2.jpg',
+      imageBg: '/images/game2.jpg',
       title: 'React',
       description : 'This is a test to see if individual content works, as of right now this content is just for the ID #2 but will test 3 to see if it works!'
     },
     {
       id: 3,
-      image: '/images/slide3.jpg',
-      imageBg: '/images/slide3.jpg',
+      image: '/images/game3.jpg',
+      imageBg: '/images/game3.jpg',
       title: 'Django',
       description : 'This is a test to see if individual content works, as of right now this content is just for the ID #3 but will test 3 to see if it works!'
     },
     {
       id: 4,
-      image: '/images/slide4.jpg',
-      imageBg: '/images/slide4.jpg',
+      image: '/images/game4.jpg',
+      imageBg: '/images/game4.jpg',
       title: 'Express',
       description : 'This is a test to see if individual content works, as of right now this content is just for the ID #4 but will test 3 to see if it works!'
     },
     {
       id: 5,
-      image: '/images/slide5.jpg',
-      imageBg: '/images/slide5.jpg',
+      image: '/images/game5.jpg',
+      imageBg: '/images/game5.jpg',
       title: 'Meteor',
       description : 'This is a test to see if individual content works, as of right now this content is just for the ID #5 but will test 3 to see if it works!'
 
     },
     {
       id: 6,
-      image: '/images/slide1.jpg',
-      imageBg: '/images/slide1.jpg',
+      image: '/images/game6.jpg',
+      imageBg: '/images/game6.jpg',
       title: 'Ruby on Rails',
       description : 'This is a test to see if individual content works, as of right now this content is just for the ID #6 but will test 3 to see if it works!'
     },
     {
       id: 7,
-      image: '/images/slide2.jpg',
-      imageBg: '/images/slide2.jpg',
+      image: '/images/game7.jpg',
+      imageBg: '/images/game7.jpg',
       title: 'Spring',
       description : 'This is a test to see if individual content works, as of right now this content is just for the ID #7 but will test 3 to see if it works!'
     },
     {
       id: 8,
-      image: '/images/slide3.jpg',
-      imageBg: '/images/slide3.jpg',
+      image: '/images/game8.jpg',
+      imageBg: '/images/game8.jpg',
       title: 'Vue',
       description : 'This is a test to see if individual content works, as of right now this content is just for the ID #8 but will test 3 to see if it works!'
     },
     {
       id: 9,
-      image: '/images/slide4.jpg',
-      imageBg: '/images/slide4.jpg',
+      image: '/images/game9.jpg',
+      imageBg: '/images/game9.jpg',
       title: 'ASAP.NET',
       description : 'This is a test to see if individual content works, as of right now this content is just for the ID #9 but will test 3 to see if it works!'
     },
     {
       id: 10,
-      image: '/images/slide5.jpg',
-      imageBg: '/images/slide5.jpg',
+      image: '/images/game10.jpg',
+      imageBg: '/images/game10.jpg',
       title: 'Ember',
       description : 'This is a test to see if individual content works, as of right now this content is just for the ID #10 but will test 3 to see if it works!'
     }
