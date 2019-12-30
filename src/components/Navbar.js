@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { withRouter } from "react-router-dom";
 import $ from 'jquery';
+import techLogo from '../assets/techLogo.png'
 
 class NavBar extends Component {
 
@@ -27,7 +28,7 @@ class NavBar extends Component {
       
     <section class="navigation">
     <div class="nav-container">
-      <div class="brand"><a href="/">Logo</a></div>
+      <div class="brand"><a href="/"><img src={techLogo} height="70" alt="techLogo"/></a></div>
       <nav>
         <div class="nav-mobile"><a id="nav-toggle" href="#!"><span></span></a></div>
         <ul class="nav-list">
@@ -39,7 +40,7 @@ class NavBar extends Component {
                 <li><a href="/ios-tech">IOS Development</a></li>
               </ul>
             </li>
-            <li><a href="/other1">Machine Learning</a></li>
+            <li><a href="/other1">Technologies</a></li>
             <li><a href="/other2">Game Development</a></li>
         </ul>
       </nav>

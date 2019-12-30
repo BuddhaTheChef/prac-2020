@@ -8,35 +8,40 @@ const movies = [
       image: '/images/angularPic.jpg',
       imageBg: '/images/angularPic.jpg',
       title: 'Angular',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #1 but will test 3 to see if it works!'
+      description : 'AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML syntax to express your applications components clearly and succinctly. AngularJS data binding and dependency injection eliminate much of the code you would otherwise have to write. And it all happens within the browser, making it an ideal partner with any server technology.',
+      link: 'https://angular.io/'
     },
     {
       id: 2,
       image: '/images/reactPic.jpg',
       imageBg: '/images/reactPic.jpg',
       title: 'React',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #2 but will test 3 to see if it works!'
+      description : 'React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes. Build encapsulated components that manage their own state, then compose them to make complex UIs.',
+      link: 'https://reactjs.org/'
     },
     {
       id: 3,
       image: '/images/djangoPic.jpg',
       imageBg: '/images/djangoPic.jpg',
       title: 'Django',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #3 but will test 3 to see if it works!'
+      description : 'Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.',
+      link: 'https://www.djangoproject.com/'
     },
     {
       id: 4,
       image: '/images/expressPic.jpg',
       imageBg: '/images/expressPic.jpg',
       title: 'Express',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #4 but will test 3 to see if it works!'
+      description : 'Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.',
+      link: 'https://expressjs.com/'
     },
     {
       id: 5,
       image: '/images/meteorPic.jpg',
       imageBg: '/images/meteorPic.jpg',
       title: 'Meteor',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #5 but will test 3 to see if it works!'
+      description : 'Accomplish in 10 lines what would otherwise take 1000, thanks to an integrated JavaScript stack that extends from the database to the end users screen. Build apps for any device. Use the same code whether you’re developing for web, iOS, Android, or desktop. Hot push new features without app store approval or forcing users to download a new native app.',
+      link: 'https://www.meteor.com/'
 
     },
     {
@@ -44,35 +49,40 @@ const movies = [
       image: '/images/rorPic.png',
       imageBg: '/images/rorPic.png',
       title: 'Ruby on Rails',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #6 but will test 3 to see if it works!'
+      description : 'Learning to build a modern web application is daunting. Ruby on Rails makes it much easier and more fun. It includes everything you need to build fantastic applications, and you can learn it with the support of our large, friendly community.',
+      link: 'https://rubyonrails.org/'
     },
     {
       id: 7,
       image: '/images/springPic.jpg',
       imageBg: '/images/springPic.jpg',
       title: 'Spring',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #7 but will test 3 to see if it works!'
+      description : 'Spring Boot is designed to get you up and running as quickly as possible, with minimal upfront configuration of Spring. Spring Boot takes an opinionated view of building production-ready applications.',
+      link: 'https://spring.io/'
     },
     {
       id: 8,
       image: '/images/vuePic.jpg',
       imageBg: '/images/vuePic.jpg',
       title: 'Vue',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #8 but will test 3 to see if it works!'
+      description : 'Already know HTML, CSS and JavaScript? Read the guide and start building things in no time. Versatile, An incrementally adoptable ecosystem that scales between a library and a full-featured framework. Performant',
+      link: 'https://vuejs.org/'
     },
     {
       id: 9,
       image: '/images/asapPic.jpg',
       imageBg: '/images/asapPic.jpg',
       title: 'ASAP.NET',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #9 but will test 3 to see if it works!'
+      description : '.NET is a developer platform made up of tools, programming languages, and libraries for building many different types of applications. ASP.NET extends the .NET developer platform with tools and libraries specifically for building web apps.',
+      link: 'https://dotnet.microsoft.com/apps/aspnet'
     },
     {
       id: 10,
       image: '/images/emberPic.png',
       imageBg: '/images/emberPic.png',
       title: 'Ember',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #10 but will test 3 to see if it works!'
+      description : 'Developers write dramatically less code with integrated templates that update automatically when the underlying data changes. No need to waste time on trivial choices. Embers abstractions allow developers to focus on what makes your app unique.Ember.js is built for productivity. Designed with developer ergonomics in mind, its friendly APIs help developers efficiently get the job done.',
+      link: 'https://emberjs.com/'
     }
   ];
 

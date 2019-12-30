@@ -16,6 +16,9 @@ const Content = ({ movie, onClose }) => (
         <div className="content__title">{movie.title}</div>
         <div className="content__description">
           {movie.description}
+          <br/>
+          <br/>
+          <a className="hypeLink" href={movie.link} target="_blank" rel="noopener noreferrer">Learn more here</a>
         </div>
       </div>
       <button className="content__close" onClick={onClose}>
