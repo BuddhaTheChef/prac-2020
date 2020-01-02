@@ -92,21 +92,21 @@ const movies = [
       image: '/images/game1.jpg',
       imageBg: '/images/game1.jpg',
       title: 'Game Maker Studio',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #1 but will test 3 to see if it works!'
+      description : 'GameMaker accommodates the creation of cross-platform and multi-genre video games using a custom drag-and-drop visual programming language or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features. GameMaker was originally designed to allow novice computer programmers to be able to make computer games without much programming knowledge by use of these actions. Recent versions of software also focus on appealing to advanced developers.'
     },
     {
       id: 2,
       image: '/images/game2.jpg',
       imageBg: '/images/game2.jpg',
       title: 'Unity',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #2 but will test 3 to see if it works!'
+      description : 'Unity is a cross-platform game engine developed by Unity Technologies, first announced and released in June 2005 at Apple Inc.s Worldwide Developers Conference as a Mac OS X-exclusive game engine. As of 2018, the engine had been extended to support more than 25 platforms. The engine can be used to create three-dimensional, two-dimensional, virtual reality, and augmented reality games, as well as simulations and other experiences. The engine has been adopted by industries outside video gaming, such as film, automotive, architecture, engineering and construction.'
     },
     {
       id: 3,
       image: '/images/game3.jpg',
       imageBg: '/images/game3.jpg',
       title: 'Unreal Engine',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #3 but will test 3 to see if it works!'
+      description : 'The Unreal Engine is a game engine developed by Epic Games, first showcased in the 1998 first-person shooter game Unreal. Although initially developed for first-person shooters, it has been successfully used in a variety of other genres, including platformers, fighting games, MMORPGs, and other RPGs. With its code written in C++, the Unreal Engine features a high degree of portability and is a tool used by many game developers today, with it being source-available.'
     },
     {
       id: 4,

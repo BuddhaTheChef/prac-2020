@@ -52,7 +52,7 @@ export default function About() {
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
             Atque, facilis quo maiores magnam modi ab libero praesentium blanditiis.
           </p>
-          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+          <span class="time-stamp">Pick a technology</span>
         </div>
       </div>
 
@@ -65,7 +65,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
           </p>
-          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+          <span class="time-stamp">Research basic concepts and pre-requsites</span>
         </div>
       </div>
 
