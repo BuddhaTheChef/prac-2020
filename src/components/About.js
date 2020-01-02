@@ -34,8 +34,8 @@ export default function About() {
 
         return (
             <div>
-            <header>
-            <h1>30 Day Challenge to learning a new technology</h1>
+            <header className="about-header">
+            <h1 style={{fontWeight: 900}}>30 Day Challenge to learning a new technology</h1>
         </header>
     
         <div class="timeline-container">
@@ -74,7 +74,7 @@ export default function About() {
           <i class="fa fa-star" aria-hidden="true"></i>
         </div>
         <div class="timeline-content">
-          <h2>Quick Trial generation finished</h2>
+          <h2>Day 3</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
           </p>
@@ -87,7 +87,7 @@ export default function About() {
           <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content right">
-          <h2>Marketo Syncronization</h2>
+          <h2>Day 4</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
           </p>
@@ -100,7 +100,7 @@ export default function About() {
           <i class="fa fa-user-circle-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content">
-          <h2>Application Licenses</h2>
+          <h2>Day 5</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
           </p>
@@ -108,19 +108,13 @@ export default function About() {
         </div>
   </div>
 
-       <div class="timeline-item right">
-        <div class="timeline-icon">
-          <i class="fa fa-key" aria-hidden="true"></i>
-        </div>
-       
-      </div>
 
         <div class="timeline-item">
         <div class="timeline-icon success">
           <i class="fa fa-star" aria-hidden="true"></i>
         </div>
         <div class="timeline-content">
-          <h2>Quick Trial Generation Started</h2>
+          <h2>Day 6</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
           </p>
@@ -133,7 +127,7 @@ export default function About() {
           <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content right">
-          <h2>The email was delivered to the user</h2>
+          <h2>Day 7</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
           </p>
@@ -146,7 +140,7 @@ export default function About() {
           <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content right">
-          <h2>The email was delivered to the user</h2>
+          <h2>Day 8</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
           </p>
@@ -154,18 +148,301 @@ export default function About() {
         </div>
       </div>
 
-         <div class="timeline-item">
+    <div class="timeline-item">
         <div class="timeline-icon">
           <i class="fa fa-user-circle-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content">
-          <h2>Application Licenses</h2>
+          <h2>Day 9</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
           </p>
            <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
         </div>
   </div>
+
+   <div class="timeline-item">
+        <div class="timeline-icon">
+          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+        </div>
+        <div class="timeline-content right">
+          <h2>Day 10</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
+          </p>
+          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+        </div>
+      </div>
+
+          <div class="timeline-item">
+        <div class="timeline-icon">
+          <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+        </div>
+        <div class="timeline-content">
+          <h2>Day 11</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
+          </p>
+           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+        </div>
+  </div>
+
+   <div class="timeline-item">
+        <div class="timeline-icon">
+          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+        </div>
+        <div class="timeline-content right">
+          <h2>Day 12</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
+          </p>
+          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+        </div>
+      </div>
+
+
+    <div class="timeline-item">
+        <div class="timeline-icon">
+          <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+        </div>
+        <div class="timeline-content">
+          <h2>Day 13</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
+          </p>
+           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+        </div>
+  </div>
+
+   <div class="timeline-item">
+        <div class="timeline-icon">
+          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+        </div>
+        <div class="timeline-content right">
+          <h2>Day 14</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
+          </p>
+          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+        </div>
+      </div>
+
+
+    <div class="timeline-item">
+        <div class="timeline-icon">
+          <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+        </div>
+        <div class="timeline-content">
+          <h2>Day 15</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
+          </p>
+           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+        </div>
+  </div>
+
+   <div class="timeline-item">
+        <div class="timeline-icon">
+          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+        </div>
+        <div class="timeline-content right">
+          <h2>Day 16</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
+          </p>
+          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+        </div>
+      </div>
+
+
+    <div class="timeline-item">
+        <div class="timeline-icon">
+          <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+        </div>
+        <div class="timeline-content">
+          <h2>Day 17</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
+          </p>
+           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+        </div>
+  </div>
+
+   <div class="timeline-item">
+        <div class="timeline-icon">
+          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+        </div>
+        <div class="timeline-content right">
+          <h2>Day 18</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
+          </p>
+          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+        </div>
+      </div>
+
+
+    <div class="timeline-item">
+        <div class="timeline-icon">
+          <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+        </div>
+        <div class="timeline-content">
+          <h2>Day 19</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
+          </p>
+           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+        </div>
+  </div>
+
+   <div class="timeline-item">
+        <div class="timeline-icon">
+          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+        </div>
+        <div class="timeline-content right">
+          <h2>Day 20</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
+          </p>
+          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+        </div>
+      </div>
+
+          <div class="timeline-item">
+        <div class="timeline-icon">
+          <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+        </div>
+        <div class="timeline-content">
+          <h2>Day 21</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
+          </p>
+           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+        </div>
+  </div>
+
+   <div class="timeline-item">
+        <div class="timeline-icon">
+          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+        </div>
+        <div class="timeline-content right">
+          <h2>Day 22</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
+          </p>
+          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+        </div>
+      </div>
+
+
+    <div class="timeline-item">
+        <div class="timeline-icon">
+          <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+        </div>
+        <div class="timeline-content">
+          <h2>Day 23</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
+          </p>
+           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+        </div>
+  </div>
+
+   <div class="timeline-item">
+        <div class="timeline-icon">
+          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+        </div>
+        <div class="timeline-content right">
+          <h2>Day 24</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
+          </p>
+          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+        </div>
+      </div>
+
+
+    <div class="timeline-item">
+        <div class="timeline-icon">
+          <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+        </div>
+        <div class="timeline-content">
+          <h2>Day 25</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
+          </p>
+           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+        </div>
+  </div>
+
+   <div class="timeline-item">
+        <div class="timeline-icon">
+          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+        </div>
+        <div class="timeline-content right">
+          <h2>Day 26</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
+          </p>
+          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+        </div>
+      </div>
+
+
+    <div class="timeline-item">
+        <div class="timeline-icon">
+          <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+        </div>
+        <div class="timeline-content">
+          <h2>Day 27</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
+          </p>
+           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+        </div>
+  </div>
+
+   <div class="timeline-item">
+        <div class="timeline-icon">
+          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+        </div>
+        <div class="timeline-content right">
+          <h2>Day 28</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
+          </p>
+          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+        </div>
+      </div>
+
+
+    <div class="timeline-item">
+        <div class="timeline-icon">
+          <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+        </div>
+        <div class="timeline-content">
+          <h2>Day 29</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
+          </p>
+           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+        </div>
+  </div>
+
+   <div class="timeline-item">
+        <div class="timeline-icon">
+          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+        </div>
+        <div class="timeline-content right">
+          <h2>Day 30</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
+          </p>
+          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+        </div>
+      </div>
+
+
 
   </div>
   </div>

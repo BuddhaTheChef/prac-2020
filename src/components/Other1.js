@@ -238,9 +238,9 @@ const movies = [
     render() {
       return (
         <div>
-          <div style={{marginTop: '90px', textAlign: 'center'}}>
+          {/* <div style={{marginTop: '90px', textAlign: 'center'}}>
           <h1 style={{display: 'inline', fontSize: '29px', color: 'whitesmoke'}}>30 Popular Technologies</h1>
-          </div>
+          </div> */}
           <Slider>
             {movies.map(movie => (
               <Slider.Item movie={movie} key={movie.id}>item1</Slider.Item>

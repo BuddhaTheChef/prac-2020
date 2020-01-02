@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
-import logo from '../logo.svg';
 import Parallax from 'parallax-js';
-import layer1 from '../assets/layer1.png';
-import layer2 from '../assets/layer2.png';
-import layer3 from '../assets/layer3.png';
-import layer4 from '../assets/layer4.png';
+import layer1 from '../assets/gPic.png';
+import layer2 from '../assets/rPic.svg';
+import layer3 from '../assets/OPic.png';
+import layer4 from '../assets/wPic.png';
 
 export default class Home extends Component {
     componentDidMount() {
@@ -23,20 +22,17 @@ export default class Home extends Component {
             </div>
 <div style={{display: 'flex', justifyContent: 'center', alignItems: 'center', overflow: 'hidden', height: '500px'}}>
              <ul ref={el => this.scene = el}>
-        <li className="layer" data-depth="-17">
-          <img src={layer1} height="350" alt="cool"/>
+             <li className="layer" data-depth="-11">
+             <img src={layer4} height="350" alt="cool"/>
         </li>
-        <li className="layer" data-depth="-11">
-          <img src={layer2} height="350" alt="cool"/>
+        <li className="layer" data-depth="-3">
+        <img src={layer3} height="350" alt="cool"/>
         </li>
-        <li className="layer" data-depth="17">
-          <img src={layer3} height="350" alt="cool"/>
+        <li className="layer" data-depth="13">
+        <img src={layer1} height="350" alt="cool"/>
         </li>
-        <li className="layer" data-depth="7">
-          <img src={layer4} height="350" alt="cool"/>
-        </li>
-        <li className="App-logo" data-depth="0">
-          <img src={logo} height="350" alt="cool"/>
+        <li className="layer" data-depth="5">
+        <img src={layer2} height="350" alt="cool"/>
         </li>
       </ul>
       </div>
