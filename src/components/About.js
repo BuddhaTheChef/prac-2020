@@ -43,8 +43,8 @@ export default function About() {
   <div id="timeline">
 
       <div class="timeline-item">
-        <div class="timeline-icon">
-          <i class="fa fa-envelope-o" aria-hidden="true"></i>
+        <div class="timeline-icon success">
+          <i class="fa fa-star" aria-hidden="true"></i>
         </div>
         <div class="timeline-content">
           <h2>Day 1</h2>
@@ -58,7 +58,7 @@ export default function About() {
 
       <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content right">
           <h2>Day 2</h2>
@@ -97,7 +97,7 @@ export default function About() {
 
     <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content">
           <h2>Day 5</h2>
@@ -124,7 +124,7 @@ export default function About() {
 
         <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content right">
           <h2>Day 7</h2>
@@ -137,7 +137,7 @@ export default function About() {
 
   <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content right">
           <h2>Day 8</h2>
@@ -150,7 +150,7 @@ export default function About() {
 
     <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content">
           <h2>Day 9</h2>
@@ -163,7 +163,7 @@ export default function About() {
 
    <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content right">
           <h2>Day 10</h2>
@@ -176,7 +176,7 @@ export default function About() {
 
           <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content">
           <h2>Day 11</h2>
@@ -189,7 +189,7 @@ export default function About() {
 
    <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content right">
           <h2>Day 12</h2>
@@ -203,7 +203,7 @@ export default function About() {
 
     <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content">
           <h2>Day 13</h2>
@@ -216,7 +216,7 @@ export default function About() {
 
    <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content right">
           <h2>Day 14</h2>
@@ -230,7 +230,7 @@ export default function About() {
 
     <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content">
           <h2>Day 15</h2>
@@ -243,7 +243,7 @@ export default function About() {
 
    <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content right">
           <h2>Day 16</h2>
@@ -257,7 +257,7 @@ export default function About() {
 
     <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content">
           <h2>Day 17</h2>
@@ -270,7 +270,7 @@ export default function About() {
 
    <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content right">
           <h2>Day 18</h2>
@@ -284,7 +284,7 @@ export default function About() {
 
     <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content">
           <h2>Day 19</h2>
@@ -297,7 +297,7 @@ export default function About() {
 
    <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content right">
           <h2>Day 20</h2>
@@ -310,7 +310,7 @@ export default function About() {
 
           <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content">
           <h2>Day 21</h2>
@@ -323,7 +323,7 @@ export default function About() {
 
    <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content right">
           <h2>Day 22</h2>
@@ -337,7 +337,7 @@ export default function About() {
 
     <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content">
           <h2>Day 23</h2>
@@ -350,7 +350,7 @@ export default function About() {
 
    <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content right">
           <h2>Day 24</h2>
@@ -364,7 +364,7 @@ export default function About() {
 
     <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content">
           <h2>Day 25</h2>
@@ -377,7 +377,7 @@ export default function About() {
 
    <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content right">
           <h2>Day 26</h2>
@@ -391,7 +391,7 @@ export default function About() {
 
     <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content">
           <h2>Day 27</h2>
@@ -404,7 +404,7 @@ export default function About() {
 
    <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content right">
           <h2>Day 28</h2>
@@ -418,7 +418,7 @@ export default function About() {
 
     <div class="timeline-item">
         <div class="timeline-icon">
-          <i class="fa fa-user-circle-o" aria-hidden="true"></i>
+          <i class="fa fa-check-square-o" aria-hidden="true"></i>
         </div>
         <div class="timeline-content">
           <h2>Day 29</h2>
@@ -430,8 +430,8 @@ export default function About() {
   </div>
 
    <div class="timeline-item">
-        <div class="timeline-icon">
-          <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+        <div class="timeline-icon success">
+          <i class="fa fa-star" aria-hidden="true"></i>
         </div>
         <div class="timeline-content right">
           <h2>Day 30</h2>
