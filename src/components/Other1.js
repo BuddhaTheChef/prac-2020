@@ -92,35 +92,40 @@ const movies = [
       image: '/images/game1.jpg',
       imageBg: '/images/game1.jpg',
       title: 'Game Maker Studio',
-      description : 'GameMaker accommodates the creation of cross-platform and multi-genre video games using a custom drag-and-drop visual programming language or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features. GameMaker was originally designed to allow novice computer programmers to be able to make computer games without much programming knowledge by use of these actions. Recent versions of software also focus on appealing to advanced developers.'
+      description : 'GameMaker accommodates the creation of cross-platform and multi-genre video games using a custom drag-and-drop visual programming language or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features. GameMaker was originally designed to allow novice computer programmers to be able to make computer games without much programming knowledge by use of these actions. Recent versions of software also focus on appealing to advanced developers.',
+      link: 'https://www.yoyogames.com/get'
     },
     {
       id: 2,
       image: '/images/game2.jpg',
       imageBg: '/images/game2.jpg',
       title: 'Unity',
-      description : 'Unity is a cross-platform game engine developed by Unity Technologies, first announced and released in June 2005 at Apple Inc.s Worldwide Developers Conference as a Mac OS X-exclusive game engine. As of 2018, the engine had been extended to support more than 25 platforms. The engine can be used to create three-dimensional, two-dimensional, virtual reality, and augmented reality games, as well as simulations and other experiences. The engine has been adopted by industries outside video gaming, such as film, automotive, architecture, engineering and construction.'
+      description : 'Unity is a cross-platform game engine developed by Unity Technologies, first announced and released in June 2005 at Apple Inc.s Worldwide Developers Conference as a Mac OS X-exclusive game engine. As of 2018, the engine had been extended to support more than 25 platforms. The engine can be used to create three-dimensional, two-dimensional, virtual reality, and augmented reality games, as well as simulations and other experiences. The engine has been adopted by industries outside video gaming, such as film, automotive, architecture, engineering and construction.',
+      link: 'https://unity.com/'
     },
     {
       id: 3,
       image: '/images/game3.jpg',
       imageBg: '/images/game3.jpg',
       title: 'Unreal Engine',
-      description : 'The Unreal Engine is a game engine developed by Epic Games, first showcased in the 1998 first-person shooter game Unreal. Although initially developed for first-person shooters, it has been successfully used in a variety of other genres, including platformers, fighting games, MMORPGs, and other RPGs. With its code written in C++, the Unreal Engine features a high degree of portability and is a tool used by many game developers today, with it being source-available.'
+      description : 'The Unreal Engine is a game engine developed by Epic Games, first showcased in the 1998 first-person shooter game Unreal. Although initially developed for first-person shooters, it has been successfully used in a variety of other genres, including platformers, fighting games, MMORPGs, and other RPGs. With its code written in C++, the Unreal Engine features a high degree of portability and is a tool used by many game developers today, with it being source-available.',
+      link: 'https://www.unrealengine.com/en-US/'
     },
     {
       id: 4,
       image: '/images/game4.jpg',
       imageBg: '/images/game4.jpg',
       title: 'C# and Java',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #4 but will test 3 to see if it works!'
+      description : 'C++ and Java both are object-oriented programming languages, still, both C++ and Java languages are different from each other in many ways.  C++ was implemented for application and system development and is an extension of C language. Along with the features of the procedural language, C++ has added support for object-oriented programming features, exception handling, generic programming. Java has a functionality of an interpreter for printing systems which later supported network computing. It is built upon the virtual machine which is highly secure and portable in nature. It is grouped with a comprehensive library implemented to provide support for the abstraction of the existing platform. The main purpose of developing Java was to develop an easy to use and widely available programming language.',
+      link: 'https://www.educba.com/c-plus-plus-vs-java/'
     },
     {
       id: 5,
       image: '/images/game5.jpg',
       imageBg: '/images/game5.jpg',
       title: 'Stencyl',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #5 but will test 3 to see if it works!'
+      description : 'Stencyl isnt your average game creation software, its a gorgeous, intuitive toolset that accelerates your workflow and then gets out of the way. We take care of the essentials, so you can focus on whats important - making your game yours. Publish Everywhere with extensive platform support, you can rest assured that all players will have access to your game. Today, Stencyl supports: iOS(iPhone/iPad), Android, Windows, Mac, Linux, Flash, HTML5',
+      link: 'http://www.stencyl.com/'
 
     },
     {
@@ -128,35 +133,40 @@ const movies = [
       image: '/images/game6.jpg',
       imageBg: '/images/game6.jpg',
       title: 'Construct 2',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #6 but will test 3 to see if it works!'
+      description : 'Construct is an HTML5-based 2D game editor, developed by Scirra Ltd. It is aimed primarily at non-programmers, allowing quick creation of games in a drag-and-drop fashion using a visual editor and a behavior-based logic system',
+      link: 'https://www.scirra.com/'
     },
     {
       id: 7,
       image: '/images/game7.jpg',
       imageBg: '/images/game7.jpg',
       title: 'Quest',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #7 but will test 3 to see if it works!'
+      description : 'Quest lets you make interactive story games. Text adventure games like Zork and The Hitchhikers Guide to the Galaxy. Gamebooks like the Choose Your Own Adventure and Fighting Fantasy books. ... All you need is a story to tell. Your game can be played anywhere.',
+      link: 'http://textadventures.co.uk/quest'
     },
     {
       id: 8,
       image: '/images/game8.jpg',
       imageBg: '/images/game8.jpg',
       title: 'Twine',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #8 but will test 3 to see if it works!'
+      description : 'Twine is a free and open-source tool created by Chris Klimas for making interactive fiction in the form of web pages. It is available on Mac OS X, Windows, and Linux.',
+      link: 'https://twinery.org/'
     },
     {
       id: 9,
       image: '/images/game9.jpg',
       imageBg: '/images/game9.jpg',
       title: 'RPG Maker',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #9 but will test 3 to see if it works!'
+      description : 'RPG Maker MV allows you to make the RPG of your dreams! This latest version includes a host of new features and export options for MacOSX, Android, and iPhone! Download Buy Now. Simple enough for a child; powerful enough for a developer.',
+      link: 'https://www.rpgmakerweb.com/products/programs/rpg-maker-mv'
     },
     {
       id: 10,
       image: '/images/game10.jpg',
       imageBg: '/images/game10.jpg',
       title: 'Game Salad',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #10 but will test 3 to see if it works!'
+      description : 'GameSalad Creator is an authoring tool developed by GameSalad, Inc. used by educators and non-programmers alike. It consists of a visual editor and a behavior-based logic system.',
+      link: 'https://gamesalad.com/'
     }
   ];
 
