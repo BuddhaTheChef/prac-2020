@@ -177,70 +177,80 @@ const movies = [
       image: '/images/tensorflowML.jpg',
       imageBg: '/images/tensorflowML.jpg',
       title: 'Tensor Flow',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #10 but will test 3 to see if it works!'
+      description : 'TensorFlow is a free and open-source software library for dataflow and differentiable programming across a range of tasks. It is a symbolic math library, and is also used for machine learning applications such as neural networks.',
+      link: 'https://www.tensorflow.org/'
     },
     {
       id: 2,
       image: '/images/microsoftML.jpg',
       imageBg: '/images/microsoftML.jpg',
       title: 'Microsoft CNTK (Cognitive Toolkit)',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #10 but will test 3 to see if it works!'
+      description : 'Microsoft Cognitive Toolkit, previously known as CNTK and sometimes styled as The Microsoft Cognitive Toolkit, is a deep learning framework developed by Microsoft Research. Microsoft Cognitive Toolkit describes neural networks as a series of computational steps via a directed graph.',
+      link: 'https://docs.microsoft.com/en-us/cognitive-toolkit/'
     },
     {
       id: 3,
       image: '/images/pythonML.jpg',
       imageBg: '/images/pythonML.jpg',
       title: 'Python Machine Learning',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #10 but will test 3 to see if it works!'
+      description : 'Introduction To Machine Learning using Python. Machine learning is a type of artificial intelligence (AI) that provides computers with the ability to learn without being explicitly programmed. Machine learning focuses on the development of Computer Programs that can change when exposed to new data.',
+      link: 'https://www.geeksforgeeks.org/introduction-machine-learning-using-python/'
     },
     {
       id: 4,
       image: '/images/mML.svg',
       imageBg: '/images/mML.svg',
       title: 'Mahout Machine Learning',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #10 but will test 3 to see if it works!'
+      description : 'Apache Mahout is a project of the Apache Software Foundation to produce free implementations of distributed or otherwise scalable machine learning algorithms focused primarily on linear algebra.',
+      link: 'https://mahout.apache.org/'
     },
     {
       id: 5,
       image: '/images/apachesparkML.jpg',
       imageBg: '/images/apachesparkML.jpg',
       title: 'Apache Spark',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #10 but will test 3 to see if it works!'
+      description : 'Apache Spark is an open-source distributed general-purpose cluster-computing framework. Spark provides an interface for programming entire clusters with implicit data parallelism and fault tolerance.',
+      link: 'https://spark.apache.org/'
     },
     {
       id: 6,
       image: '/images/amazonML.jpg',
       imageBg: '/images/amazonML.jpg',
       title: 'Amazon Machine Learning',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #10 but will test 3 to see if it works!'
+      description : 'AWS has the broadest and deepest set of machine learning and AI services for your business. ... Our capabilities are built on the most comprehensive cloud platform, optimized for machine learning with high-performance compute, and no compromises on security and analytics.',
+      link: 'https://aws.amazon.com/machine-learning/'
     },
     {
       id: 7,
       image: '/images/pytorchML.jpg',
       imageBg: '/images/pytorchML.jpg',
       title: 'Pytorch',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #10 but will test 3 to see if it works!'
+      description : 'PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing. It is primarily developed by Facebooks AI Research lab. It is free and open-source software released under the Modified BSD license.',
+      link: 'https://pytorch.org/'
     },
     {
       id: 8,
       image: '/images/caffe2ML.jpg',
       imageBg: '/images/caffe2ML.jpg',
       title: 'Caffe 2 Machine Learning',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #10 but will test 3 to see if it works!'
+      description : 'CAFFE is a deep learning framework, originally developed at University of California, Berkeley. It is open source, under a BSD license. It is written in C++, with a Python interface.',
+      link: 'https://caffe2.ai/'
     },
     {
       id: 9,
       image: '/images/apacheSingmaML.jpg',
       imageBg: '/images/apacheSingmaML.jpg',
       title: 'Apache Singa Machine Learning',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #10 but will test 3 to see if it works!'
+      description : 'Apache SINGA is an Apache top-level project for developing an open source machine learning library. It provides a flexible architecture for scalable distributed training, is extensible to run over a wide range of hardware, and has a focus on health-care applications.',
+      link: 'https://singa.apache.org/'
     },
     {
       id: 10,
       image: '/images/accordNetML.jpg',
       imageBg: '/images/accordNetML.jpg',
       title: 'Accord Net Machine Learning',
-      description : 'This is a test to see if individual content works, as of right now this content is just for the ID #10 but will test 3 to see if it works!'
+      description : 'Accord.NET is a framework for scientific computing in .NET. The source code of the project is available under the terms of the Gnu Lesser Public License, version 2.1. The framework comprises a set of libraries that are available in source code as well as via executable installers and NuGet packages.',
+      link: 'http://accord-framework.net/'
     }
   ];
   

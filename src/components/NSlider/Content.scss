@@ -72,8 +72,9 @@
     &__close {
       color: #fff;
       width: 40px;
-      height: 40px;
-      background: transparent;
+      height: 50px;
+      border-radius: 50%;
+      background: rgba(0,0,0,0.2);
       outline: none;
       border: none;
       position: absolute;
