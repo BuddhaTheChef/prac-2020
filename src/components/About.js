@@ -35,7 +35,7 @@ export default function About() {
         return (
             <div>
             <header className="about-header">
-            <h1 style={{fontWeight: 900}}>30 Day Challenge to learning a new technology</h1>
+            <h1 style={{fontWeight: 900}}>30 Day Challenge to a Software Developer</h1>
         </header>
     
         <div class="timeline-container">
@@ -49,10 +49,9 @@ export default function About() {
         <div class="timeline-content">
           <h2>Day 1</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-            Atque, facilis quo maiores magnam modi ab libero praesentium blanditiis.
+          Read everything you can about website design, and trends, and techniques, and best practices.Read about the basics to learn some code, read about design theory and read tutorials and current articles.
           </p>
-          <span class="time-stamp">Pick a technology</span>
+          <span class="time-stamp">Read up on intresting technology</span>
         </div>
       </div>
 
@@ -65,7 +64,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
           </p>
-          <span class="time-stamp">Research basic concepts and pre-requsites</span>
+          <span class="time-stamp">Start with HTML</span>
         </div>
       </div>
 
@@ -78,7 +77,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
           </p>
-           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+           <span class="time-stamp">Play around with free online resources</span>
         </div>
       </div>
 
@@ -91,7 +90,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
           </p>
-           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+           <span class="time-stamp">Understand CSS</span>
         </div>
       </div>
 
@@ -104,7 +103,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
           </p>
-           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+           <span class="time-stamp">Apply your skills to the web</span>
         </div>
   </div>
 
@@ -118,7 +117,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
           </p>
-           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+           <span class="time-stamp">Look at websites you like</span>
         </div>
       </div>
 
@@ -131,7 +130,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
           </p>
-          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+          <span class="time-stamp">Draw up a wireframe</span>
         </div>
       </div>
 
@@ -144,7 +143,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
           </p>
-          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+          <span class="time-stamp">Learn online wireframe tools</span>
         </div>
       </div>
 
@@ -157,7 +156,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
           </p>
-           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+           <span class="time-stamp">Start a website</span>
         </div>
   </div>
 
@@ -170,7 +169,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
           </p>
-          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+          <span class="time-stamp">Stay Up to Date with Technology</span>
         </div>
       </div>
 
@@ -183,7 +182,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
           </p>
-           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+           <span class="time-stamp">Get Comfortable with SEO</span>
         </div>
   </div>
 
@@ -196,7 +195,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
           </p>
-          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+          <span class="time-stamp">Subscribe to Tutorials</span>
         </div>
       </div>
 
@@ -210,7 +209,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
           </p>
-           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+           <span class="time-stamp">Join online community forums</span>
         </div>
   </div>
 
@@ -223,7 +222,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
           </p>
-          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+          <span class="time-stamp">Want to learn something? Google it.</span>
         </div>
       </div>
 
@@ -237,7 +236,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
           </p>
-           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+           <span class="time-stamp">Pay attention to User experince</span>
         </div>
   </div>
 
@@ -250,7 +249,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
           </p>
-          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+          <span class="time-stamp">Pay attention to design trends</span>
         </div>
       </div>
 
@@ -264,7 +263,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
           </p>
-           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+           <span class="time-stamp">Create apps without adding color</span>
         </div>
   </div>
 
@@ -277,7 +276,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
           </p>
-          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+          <span class="time-stamp">Look through Google fonts</span>
         </div>
       </div>
 
@@ -291,7 +290,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
           </p>
-           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+           <span class="time-stamp">Jump into Javascript</span>
         </div>
   </div>
 
@@ -304,7 +303,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
           </p>
-          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+          <span class="time-stamp">Learn jQuery</span>
         </div>
       </div>
 
@@ -317,7 +316,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
           </p>
-           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+           <span class="time-stamp">Create an app with HTML, CSS, and Javascript</span>
         </div>
   </div>
 
@@ -330,7 +329,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
           </p>
-          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+          <span class="time-stamp">Learn a Fontend Framework</span>
         </div>
       </div>
 
@@ -344,7 +343,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
           </p>
-           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+           <span class="time-stamp">Make an App using the framework</span>
         </div>
   </div>
 
@@ -357,7 +356,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
           </p>
-          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+          <span class="time-stamp">Update your portfolio</span>
         </div>
       </div>
 
@@ -371,7 +370,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
           </p>
-           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+           <span class="time-stamp">Learn about APIs</span>
         </div>
   </div>
 
@@ -384,7 +383,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
           </p>
-          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+          <span class="time-stamp">Connect your app to an API</span>
         </div>
       </div>
 
@@ -398,7 +397,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
           </p>
-           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+           <span class="time-stamp">Learn about databases</span>
         </div>
   </div>
 
@@ -411,7 +410,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
           </p>
-          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+          <span class="time-stamp">Connect your app to a database</span>
         </div>
       </div>
 
@@ -425,7 +424,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur accusantium maxime molestiae sunt ipsa.
           </p>
-           <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+           <span class="time-stamp">Make a Full Stack Application</span>
         </div>
   </div>
 
@@ -438,7 +437,7 @@ export default function About() {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, facilis quo. Maiores magnam modi ab libero praesentium blanditiis consequatur aspernatur.
           </p>
-          <span class="time-stamp">Thu Jan - 26 - 2017 01:54</span>
+          <span class="time-stamp">Never Stop Learning</span>
         </div>
       </div>
 
