@@ -37,7 +37,7 @@ class NavBar extends Component {
               <ul class="nav-dropdown">
                 <li><a href="/front-end-tech">Fontend Development</a></li>
                 <li><a href="/other">Backend Development</a></li>
-                <li><a href="/ios-tech">IOS Development</a></li>
+                <li><a href="/ios-tech">Mobile Development</a></li>
               </ul>
             </li>
             <li><a href="/other1">Technologies</a></li>

@@ -21,8 +21,8 @@ export default class Frontend extends Component {
     <h1>Slide 2</h1>
     <p>Lorem ipsum dolor sit amet, in velit iudico mandamus sit, persius dolorum in per, postulant mnesarchum cu nam. Malis movet ornatus id vim, feugait detracto est ea, eam eruditi conceptam in. Ne sit explicari interesset. Labores perpetua cum at. Id viris docendi denique vim.</p>
   </div>
-  <img src="" alt="parallax"/>
-  <img src="" alt="parallax" /> 
+  <img className="post-card" src="" alt="parallax"/>
+  <img className="post-card" src="" alt="parallax" /> 
 </div>
 
 <div id="slide3" class="slide">
@@ -37,8 +37,8 @@ export default class Frontend extends Component {
     <h1>Slide 4</h1>
     <p>Lorem ipsum dolor sit amet, in velit iudico mandamus sit, persius dolorum in per, postulant mnesarchum cu nam. Malis movet ornatus id vim, feugait detracto est ea, eam eruditi conceptam in. Ne sit explicari interesset. Labores perpetua cum at. Id viris docendi denique vim.</p>
   </div>
-  <img src="" alt="parallax" />
-  <img src="" alt="parallax" /> 
+  <img className="post-card" src="" alt="parallax" />
+  <img className="post-card" src="" alt="parallax" /> 
 </div>
 
 <div id="slide3" class="slide">
