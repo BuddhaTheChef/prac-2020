@@ -107,10 +107,8 @@ export default function About() {
             <div class="timeline-content right">
               <h2>Day 4</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque,
-                facilis quo. Maiores magnam modi ab libero praesentium
-                blanditiis consequatur aspernatur accusantium maxime molestiae
-                sunt ipsa.
+                Hop into an online editor and start messing around with html, change the way things are positioned on the page research properties and google things you'd like to explore.
+                A good way to practice is to try make a mock web page of yoyr favorite site.
               </p>
               <span class="time-stamp">Understand CSS</span>
             </div>
@@ -123,10 +121,7 @@ export default function About() {
             <div class="timeline-content">
               <h2>Day 5</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque,
-                facilis quo. Maiores magnam modi ab libero praesentium
-                blanditiis consequatur aspernatur accusantium maxime molestiae
-                sunt ipsa.
+                Apply as in fix code. Look at how people handle problems and look to see if you can solve it as well or find a better way to do it. This is a great way to progess fast.
               </p>
               <span class="time-stamp">Apply your skills to the web</span>
             </div>
@@ -139,10 +134,7 @@ export default function About() {
             <div class="timeline-content">
               <h2>Day 6</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque,
-                facilis quo. Maiores magnam modi ab libero praesentium
-                blanditiis consequatur aspernatur accusantium maxime molestiae
-                sunt ipsa.
+                Like previously stated, look for inspiration. Find sites you like and try to mimic them or take a bit of what they have and include on your site in a diffrent way.
               </p>
               <span class="time-stamp">Look at websites you like</span>
             </div>
