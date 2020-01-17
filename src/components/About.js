@@ -147,9 +147,7 @@ export default function About() {
             <div class="timeline-content right">
               <h2>Day 7</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque,
-                facilis quo. Maiores magnam modi ab libero praesentium
-                blanditiis consequatur aspernatur.
+                Now comes time to take what you\'ve learned and start from scratch. Take any topic you want and draw out a design and layout of how you wnat it. (Not only will you get a feel for what the page will look like but it will challenge you to align content a certain way.)
               </p>
               <span class="time-stamp">Draw up a wireframe</span>
             </div>
