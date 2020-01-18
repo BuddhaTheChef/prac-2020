@@ -79,7 +79,9 @@ export default function About() {
             <div class="timeline-content right">
               <h2>Day 2</h2>
               <p>
-                The foundation of web development starts with HTML. Here you will learn the backbone of Websites and is a great fundamental skill to know. 
+                The foundation of web development starts with HTML. Here you
+                will learn the backbone of Websites and is a great fundamental
+                skill to know.
               </p>
               <span class="time-stamp">Start with HTML</span>
             </div>
@@ -92,7 +94,9 @@ export default function About() {
             <div class="timeline-content">
               <h2>Day 3</h2>
               <p>
-                Look up free coding recources and applications. Such as freeCodeCamp and Codecademy. Utilize blog posts that have tutorials in it and dont be afraid to break things.
+                Look up free coding recources and applications. Such as
+                freeCodeCamp and Codecademy. Utilize blog posts that have
+                tutorials in it and dont be afraid to break things.
               </p>
               <span class="time-stamp">
                 Play around with free online resources
@@ -107,8 +111,11 @@ export default function About() {
             <div class="timeline-content right">
               <h2>Day 4</h2>
               <p>
-                Hop into an online editor and start messing around with html, change the way things are positioned on the page research properties and google things you'd like to explore.
-                A good way to practice is to try make a mock web page of yoyr favorite site.
+                Hop into an online editor and start messing around with html,
+                change the way things are positioned on the page research
+                properties and google things you'd like to explore. A good way
+                to practice is to try make a mock web page of yoyr favorite
+                site.
               </p>
               <span class="time-stamp">Understand CSS</span>
             </div>
@@ -121,7 +128,9 @@ export default function About() {
             <div class="timeline-content">
               <h2>Day 5</h2>
               <p>
-                Apply as in fix code. Look at how people handle problems and look to see if you can solve it as well or find a better way to do it. This is a great way to progess fast.
+                Apply as in fix code. Look at how people handle problems and
+                look to see if you can solve it as well or find a better way to
+                do it. This is a great way to progess fast.
               </p>
               <span class="time-stamp">Apply your skills to the web</span>
             </div>
@@ -134,7 +143,9 @@ export default function About() {
             <div class="timeline-content">
               <h2>Day 6</h2>
               <p>
-                Like previously stated, look for inspiration. Find sites you like and try to mimic them or take a bit of what they have and include on your site in a diffrent way.
+                Like previously stated, look for inspiration. Find sites you
+                like and try to mimic them or take a bit of what they have and
+                include on your site in a diffrent way.
               </p>
               <span class="time-stamp">Look at websites you like</span>
             </div>
@@ -147,7 +158,11 @@ export default function About() {
             <div class="timeline-content right">
               <h2>Day 7</h2>
               <p>
-                Now comes time to take what you\'ve learned and start from scratch. Take any topic you want and draw out a design and layout of how you wnat it. (Not only will you get a feel for what the page will look like but it will challenge you to align content a certain way.)
+                Now comes time to take what you\'ve learned and start from
+                scratch. Take any topic you want and draw out a design and
+                layout of how you wnat it. (Not only will you get a feel for
+                what the page will look like but it will challenge you to align
+                content a certain way.)
               </p>
               <span class="time-stamp">Draw up a wireframe</span>
             </div>
@@ -160,9 +175,12 @@ export default function About() {
             <div class="timeline-content right">
               <h2>Day 8</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque,
-                facilis quo. Maiores magnam modi ab libero praesentium
-                blanditiis consequatur aspernatur.
+                A wireframe is a visual mockup that outlines the basic structure
+                of your website, app, or landing page. Traditionally, a
+                wireframe is fairly simplistic. Basic shapes and elements are
+                used to block out where each piece of content and UI element
+                will go. Learning to wireframe helps you plan and organize
+                content faster, and its easy to learn.
               </p>
               <span class="time-stamp">Learn online wireframe tools</span>
             </div>
@@ -175,12 +193,14 @@ export default function About() {
             <div class="timeline-content">
               <h2>Day 9</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque,
-                facilis quo. Maiores magnam modi ab libero praesentium
-                blanditiis consequatur aspernatur accusantium maxime molestiae
-                sunt ipsa.
+                Bloggers often write from a personal perspective that allows
+                them to connect directly with their readers. Interacting with
+                your readers in the comments section helps to further the
+                connection between the blogger and the reader. It's a good way
+                to show your progress, make connections and develop your
+                personal brand.
               </p>
-              <span class="time-stamp">Start a website</span>
+              <span class="time-stamp">Start a Blog</span>
             </div>
           </div>
 
@@ -191,9 +211,9 @@ export default function About() {
             <div class="timeline-content right">
               <h2>Day 10</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque,
-                facilis quo. Maiores magnam modi ab libero praesentium
-                blanditiis consequatur aspernatur.
+                Monitor social media, balance new and traditional resources,
+                reading bologs and upcoming research, watch Ted Talks, and stay
+                connected locally and beyond.
               </p>
               <span class="time-stamp">Stay Up to Date with Technology</span>
             </div>
@@ -206,10 +226,12 @@ export default function About() {
             <div class="timeline-content">
               <h2>Day 11</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque,
-                facilis quo. Maiores magnam modi ab libero praesentium
-                blanditiis consequatur aspernatur accusantium maxime molestiae
-                sunt ipsa.
+                Bloggers often write from a personal perspective that allows
+                them to connect directly with their readers. In addition, most
+                blogs also have a “comments” section where readers can
+                correspond with the blogger. Interacting with your readers in
+                the comments section helps to further the connection between the
+                blogger and the reader.
               </p>
               <span class="time-stamp">Get Comfortable with SEO</span>
             </div>
