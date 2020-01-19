@@ -244,9 +244,7 @@ export default function About() {
             <div class="timeline-content right">
               <h2>Day 12</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque,
-                facilis quo. Maiores magnam modi ab libero praesentium
-                blanditiis consequatur aspernatur.
+                Finding tutorials is the best way to learn something new. At the same time it is good to draw inspiration from and implement certain features into your own project.
               </p>
               <span class="time-stamp">Subscribe to Tutorials</span>
             </div>
@@ -259,10 +257,7 @@ export default function About() {
             <div class="timeline-content">
               <h2>Day 13</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque,
-                facilis quo. Maiores magnam modi ab libero praesentium
-                blanditiis consequatur aspernatur accusantium maxime molestiae
-                sunt ipsa.
+                Online forums is a good way to gain your network by getting to know people in the field at the same time it is a fast way to finding answers to your questions, develop a mentorship, and learn new information.
               </p>
               <span class="time-stamp">Join online community forums</span>
             </div>
@@ -275,9 +270,7 @@ export default function About() {
             <div class="timeline-content right">
               <h2>Day 14</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque,
-                facilis quo. Maiores magnam modi ab libero praesentium
-                blanditiis consequatur aspernatur.
+                Learn to be resourceful. There is going to be alot of times where you are stuck and finding a way to solve it, is the best part of being a developer.
               </p>
               <span class="time-stamp">
                 Want to learn something? Google it.
@@ -292,10 +285,7 @@ export default function About() {
             <div class="timeline-content">
               <h2>Day 15</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque,
-                facilis quo. Maiores magnam modi ab libero praesentium
-                blanditiis consequatur aspernatur accusantium maxime molestiae
-                sunt ipsa.
+              Simplicity and elegance can produce products that are a joy to use. True user experience goes far beyond giving customers what they say they want, or providing checklist features. In order to achieve high-quality user experience there must be a seamless merging of the services of multiple disciplines, including engineering, marketing, graphical and industrial design, and interface design.
               </p>
               <span class="time-stamp">Pay attention to User experince</span>
             </div>
@@ -308,9 +298,7 @@ export default function About() {
             <div class="timeline-content right">
               <h2>Day 16</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque,
-                facilis quo. Maiores magnam modi ab libero praesentium
-                blanditiis consequatur aspernatur.
+                Keep up with the latest design trends to challenge yourself with new problems as well as creating a new, fun and exciting project. 
               </p>
               <span class="time-stamp">Pay attention to design trends</span>
             </div>
@@ -323,10 +311,7 @@ export default function About() {
             <div class="timeline-content">
               <h2>Day 17</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque,
-                facilis quo. Maiores magnam modi ab libero praesentium
-                blanditiis consequatur aspernatur accusantium maxime molestiae
-                sunt ipsa.
+                Exactly as it says. Creating without color challenges you to use containers and position your content strategiaclly.
               </p>
               <span class="time-stamp">Create apps without adding color</span>
             </div>
@@ -339,9 +324,7 @@ export default function About() {
             <div class="timeline-content right">
               <h2>Day 18</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque,
-                facilis quo. Maiores magnam modi ab libero praesentium
-                blanditiis consequatur aspernatur.
+                Google fonts allows you to change the overall design of your project. It can dramatiacally change a product and will give you inspiration.
               </p>
               <span class="time-stamp">Look through Google fonts</span>
             </div>
@@ -354,10 +337,9 @@ export default function About() {
             <div class="timeline-content">
               <h2>Day 19</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque,
-                facilis quo. Maiores magnam modi ab libero praesentium
-                blanditiis consequatur aspernatur accusantium maxime molestiae
-                sunt ipsa.
+              JavaScript is somewhat easy to get started with as it is a higher level language, which means JavaScript abstracts away most of the complex details of the machine so you can focus on learning how to program. What's more, you can get started with coding JavaScript straight from your browser without setting up any development environment, which is a reason many beginners seem to like it.
+
+
               </p>
               <span class="time-stamp">Jump into Javascript</span>
             </div>
@@ -370,9 +352,7 @@ export default function About() {
             <div class="timeline-content right">
               <h2>Day 20</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque,
-                facilis quo. Maiores magnam modi ab libero praesentium
-                blanditiis consequatur aspernatur.
+              Think of it this way; is it useful to know for when you’re looking for a job? Absolutely. However, jQuery is slowly becoming less relevant. It’s like a lot of older technology, staying on by the power of its previous momentum.
               </p>
               <span class="time-stamp">Learn jQuery</span>
             </div>
