@@ -472,9 +472,7 @@ export default function About() {
             <div class="timeline-content right">
               <h2>Day 26</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque,
-                facilis quo. Maiores magnam modi ab libero praesentium
-                blanditiis consequatur aspernatur.
+                Connecting your app to an api allows you to pull data from external resources allowing you to add unique data to your app and get "real world experience". Allowing for greater creativity.
               </p>
               <span class="time-stamp">Connect your app to an API</span>
             </div>
@@ -487,10 +485,7 @@ export default function About() {
             <div class="timeline-content">
               <h2>Day 27</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque,
-                facilis quo. Maiores magnam modi ab libero praesentium
-                blanditiis consequatur aspernatur accusantium maxime molestiae
-                sunt ipsa.
+                Databases are key if you want to run any online buisness or ecommerce store. Learing this skill is also very marketable in the field and will get you well rounded knowledge.
               </p>
               <span class="time-stamp">Learn about databases</span>
             </div>
