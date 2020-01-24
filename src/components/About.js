@@ -472,7 +472,10 @@ export default function About() {
             <div class="timeline-content right">
               <h2>Day 26</h2>
               <p>
-                Connecting your app to an api allows you to pull data from external resources allowing you to add unique data to your app and get "real world experience". Allowing for greater creativity.
+                Connecting your app to an api allows you to pull data from
+                external resources allowing you to add unique data to your app
+                and get "real world experience". Allowing for greater
+                creativity.
               </p>
               <span class="time-stamp">Connect your app to an API</span>
             </div>
@@ -485,7 +488,9 @@ export default function About() {
             <div class="timeline-content">
               <h2>Day 27</h2>
               <p>
-                Databases are key if you want to run any online buisness or ecommerce store. Learing this skill is also very marketable in the field and will get you well rounded knowledge.
+                Databases are key if you want to run any online buisness or
+                ecommerce store. Learing this skill is also very marketable in
+                the field and will get you well rounded knowledge.
               </p>
               <span class="time-stamp">Learn about databases</span>
             </div>
@@ -498,9 +503,9 @@ export default function About() {
             <div class="timeline-content right">
               <h2>Day 28</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque,
-                facilis quo. Maiores magnam modi ab libero praesentium
-                blanditiis consequatur aspernatur.
+                Connecting your app to your database will get you a feel of how
+                to collect and interact with data coming from an external source
+                allowing for string manipulations and working with objects.
               </p>
               <span class="time-stamp">Connect your app to a database</span>
             </div>
@@ -513,10 +518,10 @@ export default function About() {
             <div class="timeline-content">
               <h2>Day 29</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque,
-                facilis quo. Maiores magnam modi ab libero praesentium
-                blanditiis consequatur aspernatur accusantium maxime molestiae
-                sunt ipsa.
+                Lastly, connecting your database needs a way to interact with
+                the front-end and the user so we need to learn the backend.
+                Start simple and only use methods you need to get the foundation
+                of your app and then you can work from there.
               </p>
               <span class="time-stamp">Make a Full Stack Application</span>
             </div>
@@ -529,9 +534,10 @@ export default function About() {
             <div class="timeline-content right">
               <h2>Day 30</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque,
-                facilis quo. Maiores magnam modi ab libero praesentium
-                blanditiis consequatur aspernatur.
+                As the topic says. Continue your learning. No developer is
+                perfect and as long as you strive to learn new things and keep
+                an open mind you will progress in no time and get the "Aha"
+                Moment.
               </p>
               <span class="time-stamp">Never Stop Learning</span>
             </div>
