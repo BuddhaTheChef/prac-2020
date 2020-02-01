@@ -8,6 +8,7 @@ export default class Frontend extends Component {
         <div id="title" class="slide header">
           <h1>Front End</h1>
         </div>
+        <div class="slide header">OTHER CONTENT HERE</div>
       </div>
     );
   }
