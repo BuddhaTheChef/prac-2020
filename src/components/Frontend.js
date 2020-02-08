@@ -10,11 +10,11 @@ export default class Frontend extends Component {
 			<div class="PageWidth">
 				<div class="pricing-detail-content">
 				<div class="pricing-content-items-tabs">
-        <h1>Top Picks for Frontend</h1>
+        <h1 style={{color: 'whitesmoke'}}>Top Picks for Frontend</h1>
 					<div class="pricing-yearly">
 					<div class="pricing-item">
 						<div class="pricing-item-box">
-						<div class="plan-name">Vue</div>
+						<div class="plan-name">Vue.js</div>
 						<div class="plan-text"><span class="text-bold">Best for</span> Startup agencies who want to automate their reporting</div>
 
 						<div class="plan-price-content">
@@ -27,7 +27,7 @@ export default class Frontend extends Component {
 							
 						</div>
 
-						<div class="plan-button"><a href="/">Vue</a></div>
+						<div class="plan-button"><a href="https://vuejs.org/" target="_blank">Vue.js</a></div>
 						</div>
 					</div>
 					<div class="pricing-item">
@@ -45,7 +45,7 @@ export default class Frontend extends Component {
 							<div class="plan-feature-item">Unlimited Live Dashboards</div>
 						</div>
 
-						<div class="plan-button"><a href="/">Angular</a></div>
+						<div class="plan-button"><a href="https://angular.io/" target="_blank">Angular</a></div>
 						</div>
 					</div>
 					<div class="pricing-item">
@@ -65,7 +65,7 @@ export default class Frontend extends Component {
 							<div class="plan-feature-item">Unlimited Reports</div>
 							<div class="plan-feature-item">Unlimited Live Dashboards</div>
 						</div>
-						<div class="plan-button"><a href="/" class="plan-button-blue ">React.js</a></div>
+						<div class="plan-button"><a href="https://reactjs.org/" target="_blank" class="plan-button-blue ">React.js</a></div>
 						</div>
 					</div>
 					<div class="pricing-item">
@@ -173,7 +173,7 @@ export default class Frontend extends Component {
 							<div class="plan-feature-item">Storage</div>
 							<div class="plan-feature-item">150+ Data Sources</div>
 						</div>
-						<div class="plan-button"><a href="/">Standard</a></div>
+						<div class="plan-button"><a href="https://www.w3schools.com/html/html_intro.asp" target="_blank">Standard</a></div>
 						</div>
 					</div>
 				</div>
