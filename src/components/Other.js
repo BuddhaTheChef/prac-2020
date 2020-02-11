@@ -14,11 +14,11 @@ export default class Other extends Component {
 					<div class="pricing-yearly">
 					<div class="pricing-item">
 						<div class="pricing-item-box">
-						<div class="plan-name">Vue.js</div>
+						<div class="plan-name">Larvel</div>
 						<div class="plan-text"><span class="text-bold">Best for</span> Startup agencies who want to automate their reporting</div>
 
 						<div class="plan-price-content">
-							<div class="plan-price">Pros<span class="month-text"> / of Vue</span></div>
+							<div class="plan-price">Pros<span class="month-text"> / of Larvel</span></div>
 							
 						</div>
 
@@ -27,16 +27,16 @@ export default class Other extends Component {
 							
 						</div>
 
-						<div class="plan-button"><a href="https://vuejs.org/" target="_blank">Vue.js</a></div>
+						<div class="plan-button"><a href="https://laravel.com/" target="_blank">Larvel</a></div>
 						</div>
 					</div>
 					<div class="pricing-item">
 						<div class="pricing-item-box">
-						<div class="plan-name">Angualr</div>
+						<div class="plan-name">Django</div>
 						<div class="plan-text"><span class="text-bold">Best for</span> Startup agencies who want to automate their reporting</div>
 
 						<div class="plan-price-content">
-							<div class="plan-price">Pros<span class="month-text"> / of Angular</span></div>
+							<div class="plan-price">Pros<span class="month-text"> / of Django</span></div>
 												</div>
 
 						<div class="plan-features">
@@ -45,18 +45,18 @@ export default class Other extends Component {
 							<div class="plan-feature-item">Unlimited Live Dashboards</div>
 						</div>
 
-						<div class="plan-button"><a href="https://angular.io/" target="_blank">Angular</a></div>
+						<div class="plan-button"><a href="https://www.djangoproject.com/" target="_blank">Django</a></div>
 						</div>
 					</div>
 					<div class="pricing-item">
 						
 						<div class="pricing-item-box">
 							<span class="ribbon"></span>
-						<div class="plan-name">React.js</div>
+						<div class="plan-name">Express</div>
 						<div class="plan-text"><span class="text-bold">Best for</span> Agencies who want a brandable marketing platform</div>
 
 						<div class="plan-price-content">
-							<div class="plan-price">Pros<span class="month-text"> / of React.js</span></div>
+							<div class="plan-price">Pros<span class="month-text"> / of Express</span></div>
 							
 						</div>
 
@@ -65,16 +65,16 @@ export default class Other extends Component {
 							<div class="plan-feature-item">Unlimited Reports</div>
 							<div class="plan-feature-item">Unlimited Live Dashboards</div>
 						</div>
-						<div class="plan-button"><a href="https://reactjs.org/" target="_blank" class="plan-button-blue ">React.js</a></div>
+						<div class="plan-button"><a href="https://expressjs.com/" target="_blank" class="plan-button-blue ">Express</a></div>
 						</div>
 					</div>
 					<div class="pricing-item">
 						<div class="pricing-item-box">
-						<div class="plan-name">Standard</div>
+						<div class="plan-name">Ruby on Rails</div>
 						<div class="plan-text"><span class="text-bold">Best for</span> Large agencies who want to scale their processes</div>
 
 						<div class="plan-price-content">
-							<div class="plan-price">Pros of the Basics</div>
+							<div class="plan-price">Pros of Ruby on Rails</div>
 						
 						</div>
 
@@ -89,7 +89,7 @@ export default class Other extends Component {
 							<div class="plan-feature-item">Storage</div>
 							<div class="plan-feature-item">150+ Data Sources</div>
 						</div>
-						<div class="plan-button"><a href="/">Standard</a></div>
+						<div class="plan-button"><a href="https://rubyonrails.org/">Ruby on Rails</a></div>
 						</div>
 					</div>
 				</div>
@@ -154,7 +154,7 @@ export default class Other extends Component {
 					</div>
 					<div class="pricing-item">
 						<div class="pricing-item-box">
-						<div class="plan-name">Standard</div>
+						<div class="plan-name">Ruby on Rails</div>
 						<div class="plan-text"><span class="text-bold">Best for</span> Large agencies who want to scale their processes</div>
 
 						<div class="plan-price-content">
@@ -173,7 +173,7 @@ export default class Other extends Component {
 							<div class="plan-feature-item">Storage</div>
 							<div class="plan-feature-item">150+ Data Sources</div>
 						</div>
-						<div class="plan-button"><a href="https://www.w3schools.com/html/html_intro.asp" target="_blank">Standard</a></div>
+						<div class="plan-button"><a href="https://rubyonrails.org/" target="_blank">Ruby on Rails</a></div>
 						</div>
 					</div>
 				</div>
