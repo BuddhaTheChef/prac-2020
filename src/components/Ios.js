@@ -14,11 +14,11 @@ export default class Ios extends Component {
 					<div class="pricing-yearly">
 					<div class="pricing-item">
 						<div class="pricing-item-box">
-						<div class="plan-name">Vue.js</div>
+						<div class="plan-name">IOS SDK</div>
 						<div class="plan-text"><span class="text-bold">Best for</span> Startup agencies who want to automate their reporting</div>
 
 						<div class="plan-price-content">
-							<div class="plan-price">Pros<span class="month-text"> / of Vue</span></div>
+							<div class="plan-price">Pros<span class="month-text"> / of IOS SDK</span></div>
 							
 						</div>
 
@@ -27,16 +27,16 @@ export default class Ios extends Component {
 							
 						</div>
 
-						<div class="plan-button"><a href="https://vuejs.org/" target="_blank">Vue.js</a></div>
+						<div class="plan-button"><a href="https://usabilitygeek.com/best-ios-sdk-tools-2019/" target="_blank" rel="noopener noreferrer">IOS SDK</a></div>
 						</div>
 					</div>
 					<div class="pricing-item">
 						<div class="pricing-item-box">
-						<div class="plan-name">Angualr</div>
+						<div class="plan-name">Apache Cordova</div>
 						<div class="plan-text"><span class="text-bold">Best for</span> Startup agencies who want to automate their reporting</div>
 
 						<div class="plan-price-content">
-							<div class="plan-price">Pros<span class="month-text"> / of Angular</span></div>
+							<div class="plan-price">Pros<span class="month-text"> / of Apache Cordova</span></div>
 												</div>
 
 						<div class="plan-features">
@@ -45,18 +45,18 @@ export default class Ios extends Component {
 							<div class="plan-feature-item">Unlimited Live Dashboards</div>
 						</div>
 
-						<div class="plan-button"><a href="https://angular.io/" target="_blank">Angular</a></div>
+						<div class="plan-button"><a href="https://cordova.apache.org/" target="_blank" rel="noopener noreferrer">Apache Cordova</a></div>
 						</div>
 					</div>
 					<div class="pricing-item">
 						
 						<div class="pricing-item-box">
 							<span class="ribbon"></span>
-						<div class="plan-name">React.js</div>
+						<div class="plan-name">React Native</div>
 						<div class="plan-text"><span class="text-bold">Best for</span> Agencies who want a brandable marketing platform</div>
 
 						<div class="plan-price-content">
-							<div class="plan-price">Pros<span class="month-text"> / of React.js</span></div>
+							<div class="plan-price">Pros<span class="month-text"> / of React Native</span></div>
 							
 						</div>
 
@@ -65,16 +65,16 @@ export default class Ios extends Component {
 							<div class="plan-feature-item">Unlimited Reports</div>
 							<div class="plan-feature-item">Unlimited Live Dashboards</div>
 						</div>
-						<div class="plan-button"><a href="https://reactjs.org/" target="_blank" class="plan-button-blue ">React.js</a></div>
+						<div class="plan-button"><a href="https://facebook.github.io/react-native/" target="_blank" rel="noopener noreferrer" class="plan-button-blue">React Native</a></div>
 						</div>
 					</div>
 					<div class="pricing-item">
 						<div class="pricing-item-box">
-						<div class="plan-name">Standard</div>
-						<div class="plan-text"><span class="text-bold">Best for</span> Large agencies who want to scale their processes</div>
+						<div class="plan-name">Ionic</div>
+						<div class="plan-text"><span class="text-bold">Best for</span> Something</div>
 
 						<div class="plan-price-content">
-							<div class="plan-price">Pros of the Basics</div>
+							<div class="plan-price">Pros of Ionic</div>
 						
 						</div>
 
@@ -89,7 +89,7 @@ export default class Ios extends Component {
 							<div class="plan-feature-item">Storage</div>
 							<div class="plan-feature-item">150+ Data Sources</div>
 						</div>
-						<div class="plan-button"><a href="/">Standard</a></div>
+						<div class="plan-button"><a href="https://ionicframework.com/" target="_blank" rel="noopener noreferrer">Ionic</a></div>
 						</div>
 					</div>
 				</div>
@@ -173,7 +173,7 @@ export default class Ios extends Component {
 							<div class="plan-feature-item">Storage</div>
 							<div class="plan-feature-item">150+ Data Sources</div>
 						</div>
-						<div class="plan-button"><a href="https://www.w3schools.com/html/html_intro.asp" target="_blank">Standard</a></div>
+						<div class="plan-button"><a href="https://www.w3schools.com/html/html_intro.asp" target="_blank" rel="noopener noreferrer">Standard</a></div>
 						</div>
 					</div>
 				</div>

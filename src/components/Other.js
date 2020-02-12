@@ -27,7 +27,7 @@ export default class Other extends Component {
 							
 						</div>
 
-						<div class="plan-button"><a href="https://laravel.com/" target="_blank">Larvel</a></div>
+						<div class="plan-button"><a href="https://laravel.com/" target="_blank" rel="noopener noreferrer">Larvel</a></div>
 						</div>
 					</div>
 					<div class="pricing-item">
@@ -45,7 +45,7 @@ export default class Other extends Component {
 							<div class="plan-feature-item">Unlimited Live Dashboards</div>
 						</div>
 
-						<div class="plan-button"><a href="https://www.djangoproject.com/" target="_blank">Django</a></div>
+						<div class="plan-button"><a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">Django</a></div>
 						</div>
 					</div>
 					<div class="pricing-item">
@@ -65,7 +65,7 @@ export default class Other extends Component {
 							<div class="plan-feature-item">Unlimited Reports</div>
 							<div class="plan-feature-item">Unlimited Live Dashboards</div>
 						</div>
-						<div class="plan-button"><a href="https://expressjs.com/" target="_blank" class="plan-button-blue ">Express</a></div>
+						<div class="plan-button"><a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer" class="plan-button-blue ">Express</a></div>
 						</div>
 					</div>
 					<div class="pricing-item">
@@ -173,7 +173,7 @@ export default class Other extends Component {
 							<div class="plan-feature-item">Storage</div>
 							<div class="plan-feature-item">150+ Data Sources</div>
 						</div>
-						<div class="plan-button"><a href="https://rubyonrails.org/" target="_blank">Ruby on Rails</a></div>
+						<div class="plan-button"><a href="https://rubyonrails.org/" target="_blank" rel="noopener noreferrer">Ruby on Rails</a></div>
 						</div>
 					</div>
 				</div>
