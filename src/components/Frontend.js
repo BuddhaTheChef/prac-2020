@@ -15,7 +15,7 @@ export default class Frontend extends Component {
 					<div class="pricing-item">
 						<div class="pricing-item-box">
 						<div class="plan-name">Vue.js</div>
-						<div class="plan-text"><span class="text-bold">Best for</span> Startup agencies who want to automate their reporting</div>
+						<div class="plan-text"><span class="text-bold">Best for</span>  creating compelling user interfaces efficiently and easily</div>
 
 						<div class="plan-price-content">
 							<div class="plan-price">Pros<span class="month-text"> / of Vue</span></div>
@@ -23,8 +23,11 @@ export default class Frontend extends Component {
 						</div>
 
 						<div class="plan-features">
-							<div class="plan-feature-item">5 Clients</div>
-							
+							<div class="plan-feature-item">Size - less memory than jQuery library</div>
+							<div class="plan-feature-item">Readability</div>
+							<div class="plan-feature-item">Documentation</div>
+							<div class="plan-feature-item">Reactivity</div>
+							<div class="plan-feature-item">Vue CLI 3 - makes life for developers easier</div>
 						</div>
 
 						<div class="plan-button"><a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">Vue.js</a></div>
@@ -33,16 +36,17 @@ export default class Frontend extends Component {
 					<div class="pricing-item">
 						<div class="pricing-item-box">
 						<div class="plan-name">Angualr</div>
-						<div class="plan-text"><span class="text-bold">Best for</span> Startup agencies who want to automate their reporting</div>
+						<div class="plan-text"><span class="text-bold">Best for</span> building a platform for building mobile and desktop web applications</div>
 
 						<div class="plan-price-content">
 							<div class="plan-price">Pros<span class="month-text"> / of Angular</span></div>
 												</div>
 
 						<div class="plan-features">
-							<div class="plan-feature-item">15 Clients</div>
-							<div class="plan-feature-item">Unlimited Reports</div>
-							<div class="plan-feature-item">Unlimited Live Dashboards</div>
+							<div class="plan-feature-item">Two way data binding</div>
+							<div class="plan-feature-item">Directives</div>
+							<div class="plan-feature-item">Community</div>
+							<div class="plan-feature-item">Dependecy injections</div>
 						</div>
 
 						<div class="plan-button"><a href="https://angular.io/" target="_blank" rel="noopener noreferrer">Angular</a></div>
