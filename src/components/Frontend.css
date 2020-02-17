@@ -171,6 +171,8 @@
 }
 
 .pricing-item-box {
+    width: 272px;
+    height: 600px;
     display: flex;
     flex-direction: column;
     flex: 1;
