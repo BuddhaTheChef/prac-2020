@@ -14,20 +14,23 @@ export default class Ios extends Component {
 					<div class="pricing-yearly">
 					<div class="pricing-item">
 						<div class="pricing-item-box">
-						<div class="plan-name">IOS SDK</div>
-						<div class="plan-text"><span class="text-bold">Best for</span> Startup agencies who want to automate their reporting</div>
+						<div class="plan-name">Swift</div>
+						<div class="plan-text"><span class="text-bold">Best for</span>  powerful and intuitive programming language for macOS, iOS, watchOS</div>
 
 						<div class="plan-price-content">
-							<div class="plan-price">Pros<span class="month-text"> / of IOS SDK</span></div>
+							<div class="plan-price">Pros<span class="month-text"> / of Swift</span></div>
 							
 						</div>
 
 						<div class="plan-features">
-							<div class="plan-feature-item">5 Clients</div>
-							
+							<div class="plan-feature-item">Easier to read- easier to maintain</div>
+							<div class="plan-feature-item">Easily scalable</div>
+							<div class="plan-feature-item">Cross-device Support</div>
+							<div class="plan-feature-item">Full-stack potential</div>
+							<div class="plan-feature-item">Swift is Brief.</div>
 						</div>
 
-						<div class="plan-button"><a href="https://usabilitygeek.com/best-ios-sdk-tools-2019/" target="_blank" rel="noopener noreferrer">IOS SDK</a></div>
+						<div class="plan-button"><a href="https://developer.apple.com/swift/" target="_blank" rel="noopener noreferrer">Swift</a></div>
 						</div>
 					</div>
 					<div class="pricing-item">
