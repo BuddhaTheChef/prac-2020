@@ -718,3 +718,9 @@ table.invoices-table tr td:nth-child(1), table.invoices-table tr th:nth-child(1)
 .pricing-monthly.active-tab-content{
     display: flex;
 }
+
+
+.game-main-div {
+    height: 100vh;
+    border: #0ec9ec;
+}
