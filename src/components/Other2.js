@@ -15,9 +15,17 @@ export default class Other2 extends Component {
             div1
             </div>
             </div>
-            <div className="game-div-two" style={{backgroundImage:'url(https://images.unsplash.com/photo-1472289065668-ce650ac443d2?ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>div2</div>
+            <div className="game-div-two" style={{backgroundImage:'url(https://images.unsplash.com/photo-1472289065668-ce650ac443d2?ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
+            <div style={{backgroundColor: 'rgba(30,30,30,0.7)', padding: '120px 200px', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
+            div2
+            </div>
+            </div>
           </div>
-          <div className="game-div-three" style={{backgroundImage:'url(https://images.unsplash.com/photo-1481349518771-20055b2a7b24?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2309&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>div3</div>
+          <div className="game-div-three" style={{backgroundImage:'url(https://images.unsplash.com/photo-1481349518771-20055b2a7b24?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2309&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
+          <div style={{backgroundColor: 'rgba(30,30,30,0.7)', padding: '400px 300px', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
+          div3
+          </div>
+          </div>
         </div>
 
         <div className="game-main-div-rev">
