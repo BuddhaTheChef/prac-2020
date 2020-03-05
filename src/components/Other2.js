@@ -67,6 +67,7 @@ export default class Other2 extends Component {
           </div>
           </div>
         </div>
+        <footer>Footer</footer>
       </div>
     );
   }
