@@ -12,7 +12,7 @@ export default class Other2 extends Component {
           <div className="game-double-div">
             <div className="game-div-one" style={{backgroundImage:'url(https://images.unsplash.com/photo-1559181567-c3190ca9959b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2244&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
             <div style={{backgroundColor: 'rgba(30,30,30,0.7)', padding: '190px', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
-            div1
+            Testing content for div 1
             </div>
             </div>
             <div className="game-div-two" style={{backgroundImage:'url(https://images.unsplash.com/photo-1472289065668-ce650ac443d2?ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
@@ -67,7 +67,6 @@ export default class Other2 extends Component {
           </div>
           </div>
         </div>
-        <footer>Footer</footer>
       </div>
     );
   }
