@@ -31,18 +31,18 @@ export default class Other2 extends Component {
         <div className="game-main-div-rev">
           <div className="game-div-three" style={{backgroundImage:'url(https://images.unsplash.com/photo-1506808547685-e2ba962ded60?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1275&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
           <div style={{backgroundColor: 'rgba(30,30,30,0.7)', padding: '400px 300px', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
-          div3
+          Testing content for div 4
           </div>
           </div>
           <div className="game-double-div">
             <div className="game-div-one" style={{backgroundImage:'url(https://images.unsplash.com/photo-1517281749396-564b95a206c3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1349&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
             <div style={{backgroundColor: 'rgba(30,30,30,0.7)', padding: '190px', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
-            div1
+            Testing content for div 5
             </div>
             </div>
             <div className="game-div-two" style={{backgroundImage:'url(https://images.unsplash.com/photo-1559703248-dcaaec9fab78?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1300&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
             <div style={{backgroundColor: 'rgba(30,30,30,0.7)', padding: '120px 200px', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
-            div2
+            Testing content for div 6
             </div>
             </div>
           </div>
@@ -52,18 +52,18 @@ export default class Other2 extends Component {
           <div className="game-double-div">
             <div className="game-div-one" style={{backgroundImage:'url(https://images.unsplash.com/photo-1573487903232-46df3657c783?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1300&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
             <div style={{backgroundColor: 'rgba(30,30,30,0.7)', padding: '190px', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
-            div1
+            Testing content for div 7
             </div>
             </div>
             <div className="game-div-two" style={{backgroundImage:'url(https://images.unsplash.com/photo-1494253109108-2e30c049369b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
             <div style={{backgroundColor: 'rgba(30,30,30,0.7)', padding: '120px 200px', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
-            div2
+            Testing content for div 8
             </div>
             </div>
           </div>
           <div className="game-div-three" style={{backgroundImage:'url(https://images.unsplash.com/photo-1567653418876-5bb0e566e1c2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1300&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
           <div style={{backgroundColor: 'rgba(30,30,30,0.7)', padding: '400px 300px', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
-          div3
+          Testing content for div 9
           </div>
           </div>
         </div>
