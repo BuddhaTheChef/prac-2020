@@ -16,14 +16,14 @@ export default class Other2 extends Component {
             </div>
             </div>
             <div className="game-div-two" style={{backgroundImage:'url(https://images.unsplash.com/photo-1472289065668-ce650ac443d2?ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
-            <div style={{backgroundColor: 'rgba(30,30,30,0.7)', padding: '120px 200px', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
-            Testing content for div 2
+            <div style={{backgroundColor: 'rgba(30,30,30,0.7)', height: '80%', width: '80%', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
+            <p style={{color: 'white', padding: '20px'}}>Testing content for div 2</p>
             </div>
             </div>
           </div>
           <div className="game-div-three" style={{backgroundImage:'url(https://images.unsplash.com/photo-1481349518771-20055b2a7b24?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2309&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
-          <div style={{backgroundColor: 'rgba(30,30,30,0.7)', padding: '400px 300px', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
-          Testing content for div 3
+          <div style={{backgroundColor: 'rgba(30,30,30,0.7)', height: '87%', width: '85%', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
+          <p style={{color: 'white', padding: '20px'}}>Testing content for div 3</p>
           </div>
           </div>
         </div>
