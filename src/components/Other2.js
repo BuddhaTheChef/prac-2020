@@ -81,8 +81,8 @@ export default class Other2 extends Component {
             </div>
             </div>
             <div className="game-div-two" style={{backgroundImage:'url(https://images.unsplash.com/photo-1559703248-dcaaec9fab78?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1300&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
-            <div style={{backgroundColor: 'rgba(30,30,30,0.7)', padding: '120px 200px', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
-            Testing content for div 6
+            <div style={{backgroundColor: 'rgba(30,30,30,0.7)', height:"80%",width:'80%', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
+            <p style={{color: 'white', padding: '20px'}}>Testing content for div 6</p>
             </div>
             </div>
           </div>
