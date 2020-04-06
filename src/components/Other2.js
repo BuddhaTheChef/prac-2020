@@ -22,7 +22,7 @@ export default class Other2 extends Component {
             </div>
           </div>
           <div className="game-div-three" style={{backgroundImage:'url(https://images.unsplash.com/photo-1481349518771-20055b2a7b24?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2309&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
-          <div style={{backgroundColor: 'rgba(30,30,30,0.7)', marginTop: '19px', height: '90%', width: '85%', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
+          <div style={{backgroundColor: 'rgba(30,30,30,0.7)', marginTop: '23px', height: '90%', width: '85%', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
           <p style={{color: 'white', padding: '20px'}}>Testing content for div 3</p>
           </div>
           </div>
@@ -30,7 +30,7 @@ export default class Other2 extends Component {
 
         <div className="game-main-div-rev">
           <div className="game-div-three" style={{backgroundImage:'url(https://images.unsplash.com/photo-1506808547685-e2ba962ded60?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1275&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
-          <div style={{backgroundColor: 'rgba(30,30,30,0.7)', height:"90%",width:'85%', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
+          <div style={{backgroundColor: 'rgba(30,30,30,0.7)',marginTop: '39px', height:"90%",width:'85%', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
           <p style={{color: 'white', padding: '20px'}}>Testing content for div 4</p>
           </div>
           </div>
