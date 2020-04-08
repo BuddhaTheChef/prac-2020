@@ -62,7 +62,7 @@ export default class Other2 extends Component {
             </div>
           </div>
           <div className="game-div-three" style={{backgroundImage:'url(https://images.unsplash.com/photo-1567653418876-5bb0e566e1c2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1300&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
-          <div style={{backgroundColor: 'rgba(30,30,30,0.7)',height:"87%",width:'85%', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
+          <div style={{backgroundColor: 'rgba(30,30,30,0.7)', marginTop: "19px", height:"90%",width:'85%', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
           <p style={{color: 'white', padding: '20px'}}>Testing content for div 9</p>
           </div>
           </div>
