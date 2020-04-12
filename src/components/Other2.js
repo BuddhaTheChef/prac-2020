@@ -24,8 +24,7 @@ export default class Other2 extends Component {
             </div>
           </div>
           <div className="game-div-three" style={{backgroundImage:'url(https://images.unsplash.com/photo-1481349518771-20055b2a7b24?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2309&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
-          <div style={{backgroundColor: 'rgba(30,30,30,0.7)', marginTop: '23px', height: '90%', width: '85%', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
-          <p style={{color: 'white', padding: '20px'}}>INSERT PICTURE OF MOBILE TECH....</p>
+          <div style={{backgroundColor: 'rgba(30,30,30,0.7)', marginTop: '23px', height: '90%', width: '85%', color: 'white', borderRadius: '5px', border: 'solid 3px white',backgroundImage:'url(https://techcrunch.com/wp-content/uploads/2015/10/vidya.jpg?w=1390&crop=1)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
           </div>
           </div>
         </div>
