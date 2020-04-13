@@ -31,18 +31,20 @@ export default class Other2 extends Component {
 
         <div className="game-main-div-rev">
           <div className="game-div-three" style={{backgroundImage:'url(https://images.unsplash.com/photo-1506808547685-e2ba962ded60?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1275&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
-          <div style={{backgroundColor: 'rgba(30,30,30,0.7)',marginTop: '39px', height:"90%",width:'85%', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
-          <p style={{color: 'white', padding: '20px'}}>Testing content for div 4</p>
+          <div style={{backgroundColor: 'rgba(30,30,30,0.7)',marginTop: '39px', height:"90%",width:'85%', color: 'white', borderRadius: '5px', border: 'solid 3px white', backgroundImage:'url(https://image.freepik.com/free-vector/futuristic-background-computer-gamer_23-2148211256.jpg)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
           </div>
           </div>
           <div className="game-double-div">
             <div className="game-div-one" style={{backgroundImage:'url(https://images.unsplash.com/photo-1517281749396-564b95a206c3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1349&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
             <div style={{backgroundColor: 'rgba(30,30,30,0.7)',marginTop: '19px', height:"80%",width:'80%', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
-            <p style={{color: 'white', padding: '20px'}}>Testing content for div 5</p>
+            <p style={{color: 'white', padding: '20px'}}>Construct 2</p>
+            <p style={{color: 'white', padding: '20px'}}>Quest</p>
+            <p style={{color: 'white', padding: '20px'}}>Unity</p>
+            <p style={{color: 'white', padding: '20px'}}>Unreal Engine</p>
             </div>
             </div>
             <div className="game-div-two" style={{backgroundImage:'url(https://images.unsplash.com/photo-1559703248-dcaaec9fab78?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1300&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
-            <div style={{backgroundColor: 'rgba(30,30,30,0.7)',height:"80%",width:'80%', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
+            <div style={{backgroundColor: 'rgba(30,30,30,0.7)',height:"80%",width:'80%', color: 'white', borderRadius: '5px', border: 'solid 3px white',display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
             <p style={{color: 'white', padding: '20px'}}>PC technologies</p>
             </div>
             </div>
