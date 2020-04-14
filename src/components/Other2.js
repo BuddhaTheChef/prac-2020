@@ -31,7 +31,7 @@ export default class Other2 extends Component {
 
         <div className="game-main-div-rev">
           <div className="game-div-three" style={{backgroundImage:'url(https://images.unsplash.com/photo-1506808547685-e2ba962ded60?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1275&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
-          <div style={{backgroundColor: 'rgba(30,30,30,0.7)',marginTop: '39px', height:"90%",width:'85%', color: 'white', borderRadius: '5px', border: 'solid 3px white', backgroundImage:'url(https://image.freepik.com/free-vector/futuristic-background-computer-gamer_23-2148211256.jpg)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
+          <div style={{backgroundColor: 'rgba(30,30,30,0.7)',marginTop: '39px', height:"90%",width:'85%', color: 'white', borderRadius: '5px', border: 'solid 3px white', backgroundImage:'url(https://image.freepik.com/free-vector/neon-gamer-illustration-flat-design_52683-14179.jpg)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
           </div>
           </div>
           <div className="game-double-div">
@@ -65,8 +65,8 @@ export default class Other2 extends Component {
             </div>
           </div>
           <div className="game-div-three" style={{backgroundImage:'url(https://images.unsplash.com/photo-1567653418876-5bb0e566e1c2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1300&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
-          <div style={{backgroundColor: 'rgba(30,30,30,0.7)', marginTop: "19px", height:"90%",width:'85%', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
-          <p style={{color: 'white', padding: '20px'}}>Testing content for div 9</p>
+          <div style={{backgroundColor: 'rgba(30,30,30,0.7)', marginTop: "19px", height:"90%",width:'85%', color: 'white', borderRadius: '5px', border: 'solid 3px white', backgroundImage:'url(https://image.freepik.com/free-vector/futuristic-background-computer-gamer_23-2148207098.jpg)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
+
           </div>
           </div>
         </div>
