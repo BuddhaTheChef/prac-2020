@@ -73,8 +73,8 @@ export default class Other2 extends Component {
 
            <div className="game-main-div-rev">
           <div className="game-div-three" style={{backgroundImage:'url(https://images.unsplash.com/photo-1506808547685-e2ba962ded60?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1275&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
-          <div style={{backgroundColor: 'rgba(30,30,30,0.7)', marginTop: "19px", height:"90%",width:'85%', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
-          <p style={{color: 'white', padding: '20px'}}>Testing content for div 4</p>
+          <div style={{backgroundColor: 'rgba(30,30,30,0.7)', marginTop: "19px", height:"90%",width:'85%', color: 'white', borderRadius: '5px', border: 'solid 3px white',backgroundImage:'url(https://image.freepik.com/free-vector/coloured-retro-video-games_1165-3.jpg)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
+          
           </div>
           </div>
           <div className="game-double-div">
