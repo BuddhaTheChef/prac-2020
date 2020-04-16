@@ -55,11 +55,14 @@ export default class Other2 extends Component {
           <div className="game-double-div">
             <div className="game-div-one" style={{backgroundImage:'url(https://images.unsplash.com/photo-1573487903232-46df3657c783?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1300&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
             <div style={{backgroundColor: 'rgba(30,30,30,0.7)', height:"80%",width:'80%', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
-            <p style={{color: 'white', padding: '20px'}}>Testing content for div 7</p>
+            <p style={{color: 'white', padding: '20px'}}>OGRE</p>
+            <p style={{color: 'white', padding: '20px'}}>Unreal Engine</p>
+            <p style={{color: 'white', padding: '20px'}}>Unity</p>
+            <p style={{color: 'white', padding: '20px'}}>Source</p>
             </div>
             </div>
             <div className="game-div-two" style={{backgroundImage:'url(https://images.unsplash.com/photo-1494253109108-2e30c049369b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
-            <div style={{backgroundColor: 'rgba(30,30,30,0.7)', height:"80%",width:'80%', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
+            <div style={{backgroundColor: 'rgba(30,30,30,0.7)', height:"80%",width:'80%', color: 'white', borderRadius: '5px', border: 'solid 3px white',display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
             <p style={{color: 'white', padding: '20px'}}>Console Devices</p>
             </div>
             </div>
@@ -84,7 +87,7 @@ export default class Other2 extends Component {
             </div>
             </div>
             <div className="game-div-two" style={{backgroundImage:'url(https://images.unsplash.com/photo-1559703248-dcaaec9fab78?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1300&q=80)', backgroundPosition: 'center',backgroundRepeat:'no-repeat', backgroundSize: 'cover'}}>
-            <div style={{backgroundColor: 'rgba(30,30,30,0.7)', height:"80%",width:'80%', color: 'white', borderRadius: '5px', border: 'solid 3px white'}}>
+            <div style={{backgroundColor: 'rgba(30,30,30,0.7)', height:"80%",width:'80%', color: 'white', borderRadius: '5px', border: 'solid 3px white',display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
             <p style={{color: 'white', padding: '20px'}}>Hand-held Devices</p>
             </div>
             </div>
